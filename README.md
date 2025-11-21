@@ -44,7 +44,7 @@ My primary tools for developing and analyzing:
   <a href="(https://www.linkedin.com/in/vedant-wadile-24w?utm_source=share_via&utm_content=profile&utm_medium=member_android)L" target="[_blank]">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://github.com/[YOUR_GITHUB_USERNAME]" target="_blank">
+  <a href="https://github.com/Ved24w" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
   <a href="mailto:vedantwadile0204@gmail.com">
